@@ -20,4 +20,4 @@
 
 Also check out the resources which I prefer to learn and work on.
 
-Give a &#9733 to this repo if you would like to encourage and support my work.
+Give a &#9733; to this repo if you would like to encourage and support my work.
