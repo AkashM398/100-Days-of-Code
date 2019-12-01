@@ -4,7 +4,7 @@
 
 ### If you've decided to join:
 
-0.  Check out the Official Site for the #100DaysOfCode movement. Connect with others on the platform of your choice from this list: www.100DaysOfCode.com/connect Also, here is a invite link to the 100DaysOfCode Slack channel
+0.  Check out the [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement. Connect with others on the platform of your choice from this list: www.100DaysOfCode.com/connect Also, here is a invite link to the 100DaysOfCode Slack channel
 
 1.  Read [Join the #100DaysOfCode.](https://www.freecodecamp.org/news/join-the-100daysofcode-556ddb4579e4/)
 
