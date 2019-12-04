@@ -21,3 +21,11 @@
 **Thoughts:** Today I've learned about the Templates in C++ and solved the STL programs in hackerrank.
 
 **Link to work:** [STL](https://github.com/AkashM398/100-Days-of-Code/tree/master/Challenge/Day-3)
+
+### Day 4: December 04, 2019 
+
+**Today's Progress**: Completed the Inheritence Problems of C++ in Hackerrank.
+
+**Thoughts:** Today I didn't do much as I was busy with other works, but still I managed to make some time to work on the inheritence problem in the hackerrank and solved it.
+
+**Link to work:** [Inheritence](https://github.com/AkashM398/100-Days-of-Code/tree/master/Challenge/Day-4)
