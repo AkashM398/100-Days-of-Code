@@ -29,3 +29,11 @@
 **Thoughts:** Today I didn't do much as I was busy with other works, but still I managed to make some time to work on the inheritence problem in the hackerrank and solved it.
 
 **Link to work:** [Inheritence](https://github.com/AkashM398/100-Days-of-Code/tree/master/Challenge/Day-4)
+
+### Day 5: December 05, 2019 
+
+**Today's Progress**: Started to create my own HTML Web Resume
+
+**Thoughts:** Today I got a thought that I didn't started to create my web resume which I wanted to make for a long time, so today I made some time to start working on this. Today I just made a basic HTML Template which I will be developing it for the next upcoming days.
+
+**Link to work:** [Web Resume](https://github.com/AkashM398/100-Days-of-Code/tree/master/Challenge/Day-5)
