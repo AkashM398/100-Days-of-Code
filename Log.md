@@ -37,3 +37,11 @@
 **Thoughts:** Today I got a thought that I didn't started to create my web resume which I wanted to make for a long time, so today I made some time to start working on this. Today I just made a basic HTML Template which I will be developing it for the next upcoming days.
 
 **Link to work:** [Web Resume](https://github.com/AkashM398/100-Days-of-Code/tree/master/Challenge/Day-5)
+
+### Day 6: December 06, 2019 
+
+**Today's Progress**: Worked on CSS part of HTML Web Resume
+
+**Thoughts:** Today I just added some html code and worked on the css but not fully completed yet, hope I will finish this off soon and publish this website.
+
+**Link to work:** [Web Resume](https://github.com/AkashM398/100-Days-of-Code/tree/master/Challenge/Day-6)
