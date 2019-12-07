@@ -45,3 +45,11 @@
 **Thoughts:** Today I just added some html code and worked on the css but not fully completed yet, hope I will finish this off soon and publish this website.
 
 **Link to work:** [Web Resume](https://github.com/AkashM398/100-Days-of-Code/tree/master/Challenge/Day-6)
+
+### Day 7: December 07, 2019 
+
+**Today's Progress**: Organized and mentored MLH Local Hack Day - Chennai
+
+**Thoughts:** Today I was busy with organizing and mentoring the MLH Local Hack Day- Chennai, so I didn't work on any code. And I was also preparing presentation for a Cyber Security Session that I am gonna take tommorow (08/12/19).
+
+**Link to work:** [Presentation](https://github.com/AkashM398/100-Days-of-Code/tree/master/Challenge/Day-7)
