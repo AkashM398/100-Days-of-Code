@@ -53,3 +53,11 @@
 **Thoughts:** Today I was busy with organizing and mentoring the MLH Local Hack Day- Chennai, so I didn't work on any code. And I was also preparing presentation for a Cyber Security Session that I am gonna take tommorow (08/12/19).
 
 **Link to work:** [Presentation](https://github.com/AkashM398/100-Days-of-Code/tree/master/Challenge/Day-7)
+
+### Day 8: December 08, 2019 
+
+**Today's Progress**: Completed my Web Resume
+
+**Thoughts:** Today I just sat down and fully worked on my web resume and finally was able to complete it.
+
+**Link to work:** [Web-Resume](https://github.com/AkashM398/100-Days-of-Code/tree/master/Challenge/Day-8)
