@@ -61,3 +61,10 @@
 **Thoughts:** Today I just sat down and fully worked on my web resume and finally was able to complete it.
 
 **Link to work:** [Web-Resume](https://github.com/AkashM398/100-Days-of-Code/tree/master/Challenge/Day-8)
+
+### Day 9: December 09, 2019 
+
+**Today's Progress**: Completed my First project in Deep Learning Nanodegree
+**Thoughts:** Today I just learned how neural network work, understood gradient descent, backpropagation, and other concepts using pytorch and developed my own neural network to predict daily bike rental ridership.
+
+**Link to work:** [Bike Sharing Project](https://github.com/AkashM398/100-Days-of-Code/tree/master/Challenge/Day-9)
