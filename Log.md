@@ -68,3 +68,10 @@
 **Thoughts:** Today I just learned how neural network work, understood gradient descent, backpropagation, and other concepts using pytorch and developed my own neural network to predict daily bike rental ridership.
 
 **Link to work:** [Bike Sharing Project](https://github.com/AkashM398/100-Days-of-Code/tree/master/Challenge/Day-9)
+
+### Day 10: December 10, 2019 
+
+**Today's Progress**: Completed unsolved c++ problems in hackerrank
+**Thoughts:** Today I just completed all the unsolved c++ problems which I kept unsolved on each concepts.
+
+**Link to work:** [Hackerrank Problems](https://github.com/AkashM398/100-Days-of-Code/tree/master/Challenge/Day-10)
