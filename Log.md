@@ -75,3 +75,10 @@
 **Thoughts:** Today I just completed all the unsolved c++ problems which I kept unsolved on each concepts.
 
 **Link to work:** [Hackerrank Problems](https://github.com/AkashM398/100-Days-of-Code/tree/master/Challenge/Day-10)
+
+### Day 11: December 11, 2019 
+
+**Today's Progress**: Worked on Developer Students Club website.
+**Thoughts:** Today I didn't work on my project, but worked on the Developer Students Club website of my College and completed the homepage, since it is a private repository, I didn't commit the code here.
+
+**Link to work:** [DSC-SIST Website](https://sathyabama-coding-club.github.io/DSC-SIST-Website/)
