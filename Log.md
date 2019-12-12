@@ -82,3 +82,10 @@
 **Thoughts:** Today I didn't work on my project, but worked on the Developer Students Club website of my College and completed the homepage, since it is a private repository, I didn't commit the code here.
 
 **Link to work:** [DSC-SIST Website](https://sathyabama-coding-club.github.io/DSC-SIST-Website/)
+
+### Day 12: December 12, 2019 
+
+**Today's Progress**: Worked on Developer Students Club website.
+**Thoughts:** Today also I just worked on the DSC website because I just want to finish this by this week and publish in the internet.
+
+**Link to work:** [DSC-SIST Website](https://sathyabama-coding-club.github.io/DSC-SIST-Website/)
