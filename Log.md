@@ -89,3 +89,10 @@
 **Thoughts:** Today also I just worked on the DSC website because I just want to finish this by this week and publish in the internet.
 
 **Link to work:** [DSC-SIST Website](https://sathyabama-coding-club.github.io/DSC-SIST-Website/)
+
+### Day 13: December 13, 2019 
+
+**Today's Progress**: Solved Project Euler easy problems in Hackerrank.
+**Thoughts:** Today I worked our and solved some project euler problems with c++ in the hackerrank.
+
+**Link to work:** [Project Euler](https://github.com/AkashM398/100-Days-of-Code/tree/master/Challenge/Day-13)
