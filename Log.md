@@ -96,3 +96,10 @@
 **Thoughts:** Today I worked our and solved some project euler problems with c++ in the hackerrank.
 
 **Link to work:** [Project Euler](https://github.com/AkashM398/100-Days-of-Code/tree/master/Challenge/Day-13)
+
+### Day 14: December 14, 2019 
+
+**Today's Progress**: Completed the Team Page of DSC Website
+**Thoughts:** Today I worked on the DSC Website and created the team page and completed it.
+
+**Link to work:** [DSC Website](https://sathyabama-coding-club.github.io/DSC-SIST-Website/team.html)
