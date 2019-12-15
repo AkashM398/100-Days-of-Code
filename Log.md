@@ -103,3 +103,10 @@
 **Thoughts:** Today I worked on the DSC Website and created the team page and completed it.
 
 **Link to work:** [DSC Website](https://sathyabama-coding-club.github.io/DSC-SIST-Website/team.html)
+
+### Day 15: December 15, 2019 
+
+**Today's Progress**: Completed the Dog-Breed Classification Project
+**Thoughts:** Today I worked on Dog-Breed Classification Project which is the third project of Udacity Deep Learning Nanodegree and completed it.
+
+**Link to work:** [Dog-Breed Classification](https://github.com/AkashM398/Dog-Breed-Classifier)
