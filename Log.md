@@ -110,3 +110,10 @@
 **Thoughts:** Today I worked on Dog-Breed Classification Project which is the third project of Udacity Deep Learning Nanodegree and completed it.
 
 **Link to work:** [Dog-Breed Classification](https://github.com/AkashM398/Dog-Breed-Classifier)
+
+### Day 16: December 16, 2019 
+
+**Today's Progress**: Solved few Project Euler Problems in c++
+**Thoughts:** Today I just solved some easy project euler problems with c++ in hackerrank.
+
+**Link to work:** [Project Euler](https://github.com/AkashM398/100-Days-of-Code/tree/master/Challenge/Day-16)
