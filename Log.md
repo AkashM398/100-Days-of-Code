@@ -117,3 +117,10 @@
 **Thoughts:** Today I just solved some easy project euler problems with c++ in hackerrank.
 
 **Link to work:** [Project Euler](https://github.com/AkashM398/100-Days-of-Code/tree/master/Challenge/Day-16)
+
+### Day 17: December 17, 2019 
+
+**Today's Progress**: Completed TV Script Generator Project
+**Thoughts:** Today I worked on Tv Script Generator project which is a part of Udacity Deep Learning Nanodegree and completed and submitted it for review by Udacity Mentors.
+
+**Link to work:** [TV Script Generator](https://github.com/AkashM398/Tv_Script_Generation)
