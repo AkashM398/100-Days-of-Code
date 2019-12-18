@@ -124,3 +124,10 @@
 **Thoughts:** Today I worked on Tv Script Generator project which is a part of Udacity Deep Learning Nanodegree and completed and submitted it for review by Udacity Mentors.
 
 **Link to work:** [TV Script Generator](https://github.com/AkashM398/Tv_Script_Generation)
+
+### Day 18: December 18, 2019 
+
+**Today's Progress**: Took Session on Web Pentesting and Bug Bounty
+**Thoughts:** Today I didn't code anything since I had to take an online session on Web Pentesting for the Hack0nFest Participants.
+
+**Link to work:** [Online Session](https://github.com/AkashM398/hack0nfest-session)
