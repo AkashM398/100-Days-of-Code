@@ -131,3 +131,10 @@
 **Thoughts:** Today I didn't code anything since I had to take an online session on Web Pentesting for the Hack0nFest Participants.
 
 **Link to work:** [Online Session](https://github.com/AkashM398/hack0nfest-session)
+
+### Day 19: December 19, 2019 
+
+**Today's Progress**: Solved few Project Euler Problems in c++
+**Thoughts:** Today I just solved some easy project euler problems with c++ in hackerrank.
+
+**Link to work:** [Project Euler](https://github.com/AkashM398/100-Days-of-Code/tree/master/Challenge/Day-19)
