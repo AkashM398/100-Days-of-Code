@@ -138,3 +138,10 @@
 **Thoughts:** Today I just solved some easy project euler problems with c++ in hackerrank.
 
 **Link to work:** [Project Euler](https://github.com/AkashM398/100-Days-of-Code/tree/master/Challenge/Day-19)
+
+### Day 20: December 20, 2019 
+
+**Today's Progress**: Solved a Crio Assessment Problem
+**Thoughts:** Today I had an assessment to get eligible for crio.do launch program and they gave three problems to solve in hackerrank, whereas I was able to solve only one and I have submitted it.
+
+**Link to work:** [Crio Assessment](https://github.com/AkashM398/100-Days-of-Code/tree/master/Challenge/Day-20)
