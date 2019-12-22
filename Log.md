@@ -145,3 +145,17 @@
 **Thoughts:** Today I had an assessment to get eligible for crio.do launch program and they gave three problems to solve in hackerrank, whereas I was able to solve only one and I have submitted it.
 
 **Link to work:** [Crio Assessment](https://github.com/AkashM398/100-Days-of-Code/tree/master/Challenge/Day-20)
+
+### Day 21: December 21, 2019 
+
+**Today's Progress**: Today I didn't work on anything
+**Thoughts:** Today I Just gave myself rest after a long sleepless nights
+
+**Link to work:** 
+
+### Day 22: December 22, 2019 
+
+**Today's Progress**: Crio Workshop
+**Thoughts:** Today I just work on a Qeats facebook review project as a part of Crio workshop, which really gave me an idea about HTTP requests.
+
+**Link to work:** [Crio Workshop](https://github.com/AkashM398/Crio-Workshop)
