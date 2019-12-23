@@ -159,3 +159,10 @@
 **Thoughts:** Today I just work on a Qeats facebook review project as a part of Crio workshop, which really gave me an idea about HTTP requests.
 
 **Link to work:** [Crio Workshop](https://github.com/AkashM398/Crio-Workshop)
+
+### Day 23: December 23, 2019 
+
+**Today's Progress**: Completed Face Generation Project
+**Thoughts:** Today I worked on udacity face generation project where I implemented GAN to generate new face on celebrities faces, I have completed it and submitted for review
+
+**Link to work:** [Face Generation](https://github.com/AkashM398/Udacity-Face-Generation-GAN)
