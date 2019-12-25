@@ -166,3 +166,17 @@
 **Thoughts:** Today I worked on udacity face generation project where I implemented GAN to generate new face on celebrities faces, I have completed it and submitted for review
 
 **Link to work:** [Face Generation](https://github.com/AkashM398/Udacity-Face-Generation-GAN)
+
+### Day 24: December 24, 2019 
+
+**Today's Progress**: Edited DSC Website and Designing Christmas Poster
+**Thoughts:** Today I worked on DSC Website to add some social links and made some alignment changes in CSS and I've also designed a christmas poster for Developer students club for posting in social media.[I made commit after 12 since i has a tight work.]
+
+**Link to work:** [DSC Website](https://github.com/Sathyabama-Coding-Club/DSC-SIST-Website)
+
+### Day 25: December 25, 2019 
+
+**Today's Progress**: Solved some euler project problems
+**Thoughts:** Today I worked and solved some euler project problems in hackerrank with c and c++.
+
+**Link to work:** [Euler Project](https://github.com/AkashM398/100-Days-of-Code/tree/master/Challenge/Day-25)
