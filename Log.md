@@ -180,3 +180,17 @@
 **Thoughts:** Today I worked and solved some euler project problems in hackerrank with c and c++.
 
 **Link to work:** [Euler Project](https://github.com/AkashM398/100-Days-of-Code/tree/master/Challenge/Day-25)
+
+### Day 26: January 01, 2020 
+
+**Today's Progress**: Added Team Page
+**Thoughts:** Today I worked on DSC website and added the team page.
+
+**Link to work:** [DSC Website](https://github.com/Sathyabama-Coding-Club/DSC-SIST-Website)
+
+### Day 27: January 02, 2020 
+
+**Today's Progress**: Made changes in CSS
+**Thoughts:** Today I worked on DSC website and made some changes on CSS.
+
+**Link to work:** [DSC Website](https://github.com/Sathyabama-Coding-Club/DSC-SIST-Website)
